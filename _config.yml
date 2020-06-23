@@ -13,10 +13,10 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Habeeb Ameen #author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    A professional Accountant, Analyst and a Coder.
+    meet Habeeb Ameen at <a href="https://github.com/gwadabe" target="_blank" rel="noopener">@github</a>.
   username: username # social media username eg. github, twitter 
-  email: your-email@email.com # your contact adress
+  email: your-habeebgwadabe@gmail.com # your contact adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # Url settings
